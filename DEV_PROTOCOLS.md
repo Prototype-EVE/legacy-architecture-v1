@@ -38,17 +38,3 @@ def calculate_ear(eye_points):
 #    blink_counter += 1
 # 2. If blink_counter >= 3 (A deliberate blink):
 #    liveness_confirmed = True
-def check_duress(landmarks):
-    # Example: Check if hand is covering mouth
-    # If the system can find eyes but fails to find mouth landmarks
-    if eyes_detected and not mouth_detected:
-        return True # DURESS TRIGGERED
-    return False
-
-# IN MAIN LOOP:
-if match_found:
-    if check_duress(landmarks):
-        print("!!! DURESS DETECTED !!!")
-        execute_silent_alarm() # Send Discord webhook, lock PC, etc.
-    else:
-        grant_access()
