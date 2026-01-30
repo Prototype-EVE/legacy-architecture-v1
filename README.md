@@ -1,6 +1,6 @@
 # legacy-architecture-v1
-# Project Resurrection: Legacy Preservation Architecture
-### Strategic Framework for AI-Driven Decompilation & Accessibility
+Project AEGIS: Strategic Asset Preservation Framework
+Unsolicited Strategic Review: Electronic Arts (EA) & The Battlefield Franchise
 
 **Status:** Research Prototype v1.0
 **Author:** Joel Garcia
