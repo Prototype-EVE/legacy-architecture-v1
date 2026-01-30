@@ -44,9 +44,6 @@ graph TD
     style F fill:#d4edda,stroke:#28a745,stroke-width:2px
     style J fill:#f8d7da,stroke:#dc3545,stroke-width:2px
     style L fill:#cce5ff,stroke:#004085,stroke-width:2px
-
-
-
 # ==============================================================================
 #   LEGAL METADATA & INTELLECTUAL PROPERTY REGISTRY
 #   (Do Not Remove)
