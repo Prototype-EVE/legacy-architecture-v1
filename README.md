@@ -44,3 +44,20 @@ graph TD
     style F fill:#d4edda,stroke:#28a745,stroke-width:2px
     style J fill:#f8d7da,stroke:#dc3545,stroke-width:2px
     style L fill:#cce5ff,stroke:#004085,stroke-width:2px
+
+
+
+# ==============================================================================
+#   LEGAL METADATA & INTELLECTUAL PROPERTY REGISTRY
+#   (Do Not Remove)
+# ==============================================================================
+__author__      = "Joel Garcia"
+__copyright__   = "Copyright 2026, ASPIS Cybernetics Industrials"
+__credits__     = ["Joel Garcia", "Project AEGIS Team"]
+__license__     = "MIT"
+__version__     = "1.0.1"
+__maintainer__  = "Joel Garcia"
+__email__       = "contact@[your-email].com"
+__status__      = "Prototype / Defensive Offline Mode"
+__confidential__= True
+# ==============================================================================
