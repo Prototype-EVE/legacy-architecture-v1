@@ -1,0 +1,8 @@
+{
+  "project": "AEGIS",
+  "phase": 1,
+  "compliance_standards": ["GDPR", "EU_AI_ACT_2026", "ISO-42001"],
+  "data_retention_policy": "30_days",
+  "training_data_source": "Anonymized_Battlefield_6_Telemetry",
+  "bias_mitigation": "Latency-Agnostic Sampling"
+}
