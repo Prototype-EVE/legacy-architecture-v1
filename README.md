@@ -2,7 +2,7 @@
 ### Unsolicited Strategic Review: Electronic Arts (EA) & The Battlefield Franchise
 
 > **Status:** Research Prototype v2.0 (Feb 2026 Update)  
-> **Author:** Joel Garcia  
+> **Author:** Alt CunningRAM 
 > **Focus:** Cybersecurity, AI Orchestration, Asset Integrity
 
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-blue) ![Focus](https://img.shields.io/badge/Focus-AI_Safety-red) ![License](https://img.shields.io/badge/License-MIT-green)
